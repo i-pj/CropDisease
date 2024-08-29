@@ -2,4 +2,3 @@ ultralytics
 numpy
 opencv-python
 PyOpenGL 
-PyOpenGL_accelerate
